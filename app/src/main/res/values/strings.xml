@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Contact List</string>
+
+    <string-array name = "name">
+        <item>Ali Khan</item>
+        <item>Ahmed Yaar</item>
+        <item>Bilal Ashraf</item>
+        <item>Bashir Akbar</item>
+        <item>Chaudhry Armaghan</item>
+        <item>Chan Pervez</item>
+        <item>Danish Kamal</item>
+        <item>Danyal Khan</item>
+        <item>Ehtisham Haq</item>
+        <item>Ejaz Bhai</item>
+        <item>Fahad Aziz</item>
+        <item>Faisal Imran</item>
+        <item>Ghafoor Janjua</item>
+        <item>Ghani Satti</item>
+        <item>Huzaifa Khan</item>
+        <item>Hammad Syed</item>
+        <item>Inam Khan</item>
+        <item>Inzemam Haider</item>
+        <item>Junaid Jamshed</item>
+        <item>Jamshed Dasti</item>
+        <item>Kamran Mujahid</item>
+        <item>Kamran Aziz</item>
+        <item>Luqman Khan</item>
+        <item>Laiq Dad</item>
+        <item>Muhammad Gulsher</item>
+        <item>Moadh Khan</item>
+        <item>Nawaz Shareef</item>
+        <item>Nadeem Paracha</item>
+        <item>Omer Farooq</item>
+        <item>Osama Shafique</item>
+        <item>Professor Mumtaz</item>
+        <item>Papa Office</item>
+        <item>Qandeel Baloch</item>
+        <item>Qamar Shareef</item>
+        <item>Rohullah Jan</item>
+        <item>Rameez Tarar</item>
+        <item>Sameer Malik</item>
+        <item>Soban Chandio</item>
+        <item>Tayyab Satti</item>
+        <item>Tauseef Tanoli</item>
+        <item>Umer Khayam</item>
+        <item>Usama Shafique</item>
+        <item>Vicky Naseem</item>
+        <item>Vazir Khan</item>
+        <item>Waqar Khan</item>
+        <item>Waheed Chishti</item>
+        <item>X-Ray Wala</item>
+        <item>Xtra Cafe</item>
+        <item>Yaqeen Eeman</item>
+        <item>Younas Butt</item>
+        <item>Zubair Ansari</item>
+        <item>Zaki Sheikh</item>
+    </string-array>
+    <string-array name = "num">
+
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+        <item>03326670700</item>
+    </string-array>
+</resources>
